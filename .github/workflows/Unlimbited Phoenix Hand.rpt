@@ -1,0 +1,69 @@
+*****************************************************************
+      SolidWorks Corporation - Compte-rendu d'état du Processeur IGES
+*****************************************************************
+=================================================================
+Informations générales
+=================================================================
+Envoi de l'identification du produit système en cours  : 9df46c68-e64b-4dbd-82dc-d89238259d21
+Réception de l'identification du produit système en cours: 
+Nom de fichier                    : 9df46c68-e64b-4dbd-82dc-d89238259d21
+Envoi du système en cours               : unknown
+Version du préprocesseur         : unknown
+Date de création du fichier           : 20190617.165154
+Date de création du modèle          : 
+Unités                        : MM
+Echelle de l'espace modèle            : 1
+Auteur                       : unknown
+Organisation                 : unknown
+
+
+=================================================================
+Informations sur le traitement des entités
+=================================================================
+
+
+=================================================================
+Analyse de précision d'un fichier IGES:
+=================================================================
+  Nombre le plus répandu de chiffres significatifs:              14
+  Nombre le plus grand de chiffres significatifs:                     14
+  Nombre moyen de chiffres significatifs :                13.8809
+  Distance maximale jusqu'à l'origine:                           111.84
+  Distance minimale jusqu'à l'origine:                          32.9677
+  Nombre effectif de chiffres significatifs:              13.7361
+
+
+=================================================================
+Récapitulatif des entités
+=================================================================
+-----------------------------------------------------------------
+Nom de type                                         Nombre converti
+---- ----                                         ----- ---------
+124  Transformation matrix                            1         1
+126  Rational B-spline curve                       8466      8466
+128  Rational B-spline surface                     2924      2924
+186  Manifold Solid B-rep Object                     30        30
+308  Subfigure definition                             8         8
+314  Color definition                                 2         2
+406  Property                                        38        38
+408  Singular subfigure instance                      8         8
+502  Vertex list                                     30        30
+504  Edge entity                                     30        30
+508  Loop entity                                   3494      3494
+510  Face entity                                   2924      2924
+514  Shell entity                                    30        30
+_________________________________________________________________
+
+
+=================================================================
+Récapitulatif des résultats
+=================================================================
+Type de fonction SolidWorks                Nombre
+-----------------------                -----
+Fonction(s) volumique(s)                       30
+Fonction(s) surfacique(s)                     0
+Fonction(s) de courbe/d'esquisse                0
+--------------------------------------------
+Heure de début: mercredi, novembre 11, 2020 18:50:43
+Heure de fin: mercredi, novembre 11, 2020 18:51:16
+Durée de traitement: 0 days, 00 hours, 00 mins, 33 secs
